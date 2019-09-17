@@ -9,5 +9,9 @@ In this case, we will use two of the most popular types of recommender systems :
   ## Item-based filtering
   
  If a group of people have made similar reviews for two items, then the two items must be similar. Therefore, if a person likes one particular item, they're likely to be interested in the other item too. <p>
- Building recommender system using item-based filtering
+ Building recommender system using item-based filtering <p>
  
+## User-based filtering 
+
+The main idea behind user-based filtering is that if we are able to find users that have baught and liked similar items in the past, they are more likely to buy similar items in the future too. Therefore, these models recommend items to a user that similar users have also liked.<p>
+ Building recommender system using user-based filtering <p>
